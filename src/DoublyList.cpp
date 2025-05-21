@@ -1,5 +1,4 @@
 #include <Linear/DoublyList.hpp>
-#include <iostream>
 #include <vector>
 #include <stdexcept>
 

@@ -4,6 +4,8 @@
         "deque": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "system_error": "cpp",
+        "chrono": "cpp"
     }
 }
